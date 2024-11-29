@@ -53,6 +53,7 @@ color: #c7c7c7;
 @media(max-width: 600px) {
     .nav-items{
         display: block;
+        width: 15%;
     }
 }
 .about-me{
@@ -125,7 +126,7 @@ color: #fff;
 .button1{
     border-radius: 100px;
     border: 1px solid #484848;
-    gap: 20px 40px;
+    padding: 20px 40px;
 }
 .button1-text{
     color: #fff;
@@ -188,20 +189,20 @@ color: #fff;
 }
 .heading-3{
 font-family: "Manrope", sans-serif;
-font-size: 2rem;
+font-size: 1rem;
 font-weight: 400;
 color: #c7c7c7;
 }
 .mail{
 font-family: "Manrope", sans-serif;
-font-size: 2rem;
+font-size: 1rem;
 font-weight: 400;
 color: #fff;
 border-bottom: 1px solid #D3E97A;
 }
 .mail2{
 font-family: "Manrope", sans-serif;
-font-size: 2rem;
+font-size: 1rem;
 font-weight: 400;
 color: #fff;
 border-bottom: 1px solid #D3E97A;
